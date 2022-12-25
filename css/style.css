@@ -1,0 +1,31 @@
+h1{
+	height: 55px;
+	margin: -7px 0;
+}
+hr{
+	margin: -10px 0;
+}
+
+.historyPython{
+	background: green;
+}
+
+.image_print{
+	width: 500px;
+	height: 70px;
+	overflow: hidden;
+}
+
+.pep_image{
+	background: yellow;
+}
+
+.inputimage{
+	height: 50px;
+	overflow: hidden;
+}
+
+.pep_Yes{
+	height: 110px;
+	overflow: hidden;
+}
